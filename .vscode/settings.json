@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.txt": "cmake",
+    "include.h": "c",
+    "spok.h": "c",
+    "_include.h": "c",
+    "cglm.h": "c",
+    "thread": "c",
+    "typeinfo": "c",
+    "body.h": "c",
+    "physics.h": "c",
+    "components.h": "c"
+  }
+}

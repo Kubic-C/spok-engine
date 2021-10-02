@@ -337,3 +337,67 @@ Parsed CXX implicit link information from above output:
   implicit fwks: []
 
 
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/sdev/dev/spok-engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_c5ac9 && [1/2] Building C object CMakeFiles/cmTC_c5ac9.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_c5ac9
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/sdev/dev/spok-engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_91bf4 && [1/2] Building C object CMakeFiles/cmTC_91bf4.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_91bf4
+
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/sdev/dev/spok-engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_3ca1d && [1/2] Building C object CMakeFiles/cmTC_3ca1d.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_3ca1d
+
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/sdev/dev/spok-engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_2d886 && [1/2] Building C object CMakeFiles/cmTC_2d886.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_2d886
+
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/sdev/dev/spok-engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_c4b1b && [1/2] Building C object CMakeFiles/cmTC_c4b1b.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_c4b1b
+
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/sdev/dev/spok-engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_bf27d && [1/2] Building C object CMakeFiles/cmTC_bf27d.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_bf27d
+
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/sdev/dev/spok-engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_72d82 && [1/2] Building C object CMakeFiles/cmTC_72d82.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_72d82
+
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/sdev/dev/spok-engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_c8204 && [1/2] Building C object CMakeFiles/cmTC_c8204.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_c8204
+
+
+

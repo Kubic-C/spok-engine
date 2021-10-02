@@ -46,6 +46,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/sdev/dev/spok-engine/build/dep/cmake_install.cmake")
   include("/home/sdev/dev/spok-engine/build/src/cmake_install.cmake")
+  include("/home/sdev/dev/spok-engine/build/test/cmake_install.cmake")
 
 endif()
 
