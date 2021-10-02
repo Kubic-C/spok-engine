@@ -1,0 +1,6 @@
+/home/sdev/dev/spok-engine/build/CMakeFiles/rebuild_cache.dir
+/home/sdev/dev/spok-engine/build/CMakeFiles/edit_cache.dir
+/home/sdev/dev/spok-engine/build/dep/CMakeFiles/rebuild_cache.dir
+/home/sdev/dev/spok-engine/build/dep/CMakeFiles/edit_cache.dir
+/home/sdev/dev/spok-engine/build/src/CMakeFiles/rebuild_cache.dir
+/home/sdev/dev/spok-engine/build/src/CMakeFiles/edit_cache.dir
